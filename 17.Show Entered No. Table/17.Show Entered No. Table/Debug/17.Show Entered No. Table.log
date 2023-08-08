@@ -1,0 +1,3 @@
+﻿  Source1.cpp
+C:\Users\umers\source\repos\17.Show Entered No. Table\17.Show Entered No. Table\Source1.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  17.Show Entered No. Table.vcxproj -> C:\Users\umers\source\repos\17.Show Entered No. Table\Debug\17.Show Entered No. Table.exe

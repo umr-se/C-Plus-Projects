@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\umers\source\repos\Even Numbers 1-100\Even Numbers 1-100\Source.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\umers\source\repos\Even Numbers 1-100\Even Numbers 1-100\Source.cpp(5,9): warning C4101: 'b': unreferenced local variable
+  Even Numbers 1-100.vcxproj -> C:\Users\umers\source\repos\Even Numbers 1-100\Debug\Even Numbers 1-100.exe

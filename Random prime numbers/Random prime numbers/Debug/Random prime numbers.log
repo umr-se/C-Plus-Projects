@@ -1,0 +1,4 @@
+﻿  Source1.cpp
+C:\Users\umers\source\repos\Random prime numbers\Random prime numbers\Source1.cpp(7,21): error C2678: binary '==': no operator found which takes a left-hand operand of type 'std::basic_ostream<char,std::char_traits<char>>' (or there is no acceptable conversion)
+C:\Users\umers\source\repos\Random prime numbers\Random prime numbers\Source1.cpp(7,21): message : could be 'built-in C++ operator==(int, int)'
+C:\Users\umers\source\repos\Random prime numbers\Random prime numbers\Source1.cpp(7,21): message : while trying to match the argument list '(std::basic_ostream<char,std::char_traits<char>>, int)'

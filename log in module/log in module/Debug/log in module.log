@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\umers\source\repos\log in module\log in module\Source.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\umers\source\repos\log in module\log in module\Source.cpp(7,6): warning C4101: 'password': unreferenced local variable
+  log in module.vcxproj -> C:\Users\umers\source\repos\log in module\Debug\log in module.exe

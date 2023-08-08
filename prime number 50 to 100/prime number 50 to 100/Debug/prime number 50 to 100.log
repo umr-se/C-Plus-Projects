@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\umers\source\repos\prime number 50 to 100\prime number 50 to 100\Source.cpp(5,6): warning C4101: 'a': unreferenced local variable
+C:\Users\umers\source\repos\prime number 50 to 100\prime number 50 to 100\Source.cpp(5,9): warning C4101: 'b': unreferenced local variable
+  prime number 50 to 100.vcxproj -> C:\Users\umers\source\repos\prime number 50 to 100\Debug\prime number 50 to 100.exe
